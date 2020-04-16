@@ -1,0 +1,10 @@
+.xly-page-layout {
+  height: 100%;
+  background-color: #fff;
+}
+.xly-homepage-header{
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
